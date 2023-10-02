@@ -1,0 +1,4 @@
+.venv/
+posApp/__pycache__/
+pos/__pycache__/
+posApp/migrations/__pycache__/
