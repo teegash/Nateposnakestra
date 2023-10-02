@@ -3,6 +3,7 @@ from unicodedata import category
 from django.db import models
 from django.utils import timezone
 
+
 # Create your models here.
 
 # class Employees(models.Model):
